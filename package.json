@@ -1,15 +1,15 @@
 {
   "name" : "shoelace-ui-legend",
-  "version" : "0.0.1",
+  "version" : "0.1.0",
   "description" : "Legend styles",
   "repository" : "https://github.com/shoelace-ui/legend.git",
   "keywords" : ["shoelace", "legend", "form"],
   "author" : "Michael Andrew Vanasse <mail@mndvns.com>",
   "license" : "MIT",
   "dependencies": {
-    "shoelace-ui-font-size": "git+https://github.com/shoelace-ui/font-size.git",
-    "shoelace-ui-gray": "git+https://github.com/shoelace-ui/gray.git",
-    "shoelace-ui-line-height": "git+https://github.com/shoelace-ui/line-height.git",
-    "shoelace-ui-spacing": "git+https://github.com/shoelace-ui/spacing.git"
+    "shoelace-ui-font-size": "^0.1.0",
+    "shoelace-ui-gray": "^0.1.0",
+    "shoelace-ui-line-height": "^0.1.0",
+    "shoelace-ui-spacing": "^0.1.0"
   }
 }

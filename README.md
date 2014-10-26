@@ -1,12 +1,6 @@
 # legend
 
-Default `legend` styles.
-
-## Installation
-
-```sh
-$ npm install git://github.com/shoelace-ui/legend.git
-```
+Legend styles
 
 ## Usage
 
